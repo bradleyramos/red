@@ -182,14 +182,14 @@ class App extends React.Component {
     this.setState({dropDownValue: text})
   }
   acceptEvent(){
-    if(this.state.bgColor === 'lightgray'){
+    if(this.state.bgColor === 'blue'){
       this.setState({
         bgColor: '#007BFF',
       });
     }
     else{
       this.setState({
-        bgColor: 'lightgray',
+        bgColor: 'blue',
       });
     }
   }
