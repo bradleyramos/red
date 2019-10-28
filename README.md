@@ -7,3 +7,5 @@ In the project directory, you can run:
 then run `yarn start` in the frontend folder
 
 backend will run under http://localhost:5000
+
+This is Bradley's Version of the Repo.
