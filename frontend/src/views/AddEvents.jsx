@@ -19,7 +19,7 @@ class AddEvents extends React.Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			isOpen: false,
+
 			dropdownOpen: false,
 			color: 'transparent',
 			friendsInvited: []
