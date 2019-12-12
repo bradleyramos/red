@@ -69,7 +69,7 @@ class User extends React.Component {
 											<Col className="ml-auto" lg="3" md="6" xs="6">
 												<h5>
 													12 <br />
-													<small>Events</small>
+													<small data-testid='UserPage1'>Events</small>
 												</h5>
 											</Col>
 											<Col className="ml-auto mr-auto" lg="4" md="6" xs="6">
